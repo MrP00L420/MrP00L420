@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SAP ABAP on HANA<br>👯 I’m looking to collaborate on Fiori and UI5<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact : I am from Mechanical Engineering Graduate
+🔭 I’m currently working on SAP ABAP on HANA<br>👯 I’m looking to collaborate on Fiori and UI5<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact : I am a Mechanical Engineering Graduate
 
 
 ## 🌐 Socials:
